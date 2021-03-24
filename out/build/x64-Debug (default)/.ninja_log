@@ -1,0 +1,22 @@
+# ninja log v5
+22	2029	638292738	CMakeFiles/ex01.dir/src/main.cpp.obj	55ed6ce82bd8a90e
+2	508	638293180	build.ninja	d56daec8be457ef3
+1241	1512	638294521	ex01.exe	3bac27400490ec03
+66	2085	638292738	CMakeFiles/ex01.dir/src/Ln.cpp.obj	d5a48b6a89f2a8be
+2	2135	638293327	CMakeFiles/ex01.dir/src/Menu.cpp.obj	1a8c77fdb0dcad0e
+12	2056	638292738	CMakeFiles/ex01.dir/src/Sin.cpp.obj	c146ac2901834949
+55	2024	638292738	CMakeFiles/ex01.dir/src/Composite.cpp.obj	29402e87d7831e31
+45	2038	638292738	CMakeFiles/ex01.dir/src/Add.cpp.obj	9340074e4e2ad760
+27	2022	638292738	CMakeFiles/ex01.dir/src/Multiply.cpp.obj	fb01f39f1380698b
+0	1240	638294521	CMakeFiles/ex01.dir/src/Polynomial.cpp.obj	62c8e34519800503
+1	2091	638295250	CMakeFiles/ex01.dir/src/Menu.cpp.obj	1a8c77fdb0dcad0e
+2091	2382	638295250	ex01.exe	3bac27400490ec03
+0	1145	638295932	CMakeFiles/ex01.dir/src/Polynomial.cpp.obj	62c8e34519800503
+1146	1378	638295932	ex01.exe	3bac27400490ec03
+7	834	638296167	CMakeFiles/ex01.dir/src/Ln.cpp.obj	d5a48b6a89f2a8be
+1	1105	638296167	CMakeFiles/ex01.dir/src/Menu.cpp.obj	1a8c77fdb0dcad0e
+1105	1444	638296167	ex01.exe	3bac27400490ec03
+1	789	638296224	CMakeFiles/ex01.dir/src/Ln.cpp.obj	d5a48b6a89f2a8be
+790	1009	638296224	ex01.exe	3bac27400490ec03
+1	1495	638297930	CMakeFiles/ex01.dir/src/Ln.cpp.obj	d5a48b6a89f2a8be
+1495	1807	638297930	ex01.exe	3bac27400490ec03
